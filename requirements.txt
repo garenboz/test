@@ -1,2 +1,6 @@
 streamlit
 pandas
+streamlit_chat
+pandas
+openai
+json
