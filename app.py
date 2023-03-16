@@ -36,12 +36,12 @@ def gpt(prompt):
         1."CAR"
         2."Sürüş bilgisi"
         3."Sürüş verileri"
-        4."Değerler başl."
+        4."Değerler başlangıcı"
         5.İstenilen ayarı seçin:
-            "Seyahat başlangıcı ( )": Değerler araçyakl. dört saat durduktan sonra otomatikolarak sıfırlanır.
-            "Yakıt ikmali ( )": Değerler yakıt deposunayüksek miktarda yakıt doldurulduktansonra otomatik olarak sıfırlanır.
+            "Seyahat başlangıcı": Değerler araçyakl. dört saat durduktan sonra otomatikolarak sıfırlanır.
+            "Yakıt ikmali": Değerler yakıt deposunayüksek miktarda yakıt doldurulduktansonra otomatik olarak sıfırlanır.
             "Fabrika": Fabrikadan teslimden beriolan ortalama tüketim.Fabrikadan teslim tarihinden beri olan değerler gösterilir.
-            "Kişisel ( )": Son manuel sıfırlamadan beriolan değerler gösterilir. Değerler herhangibir zamanda sıfırlanabilir.
+            "Kişisel": Son manuel sıfırlamadan beriolan değerler gösterilir. Değerler herhangibir zamanda sıfırlanabilir.
             
             
         Tüketim geçmişi:
