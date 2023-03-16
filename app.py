@@ -24,7 +24,7 @@ def gpt(prompt):
         Paralel yol için geçerli olan trafik işaretlerininalgılanmasında.
         Ülkelere özgü trafik işaretlerinde veya yol ayrımlarında.
         
-        Gösterge panelindeki gösterge donanıma bağlı olarak mesafeye ilişkin bilgiler gösterge panelinde widget olarak gösterilebilir.
+        BMW 925 model aracın gösterge panelindeki gösterge donanıma bağlı olarak mesafeye ilişkin bilgiler gösterge panelinde widget olarak gösterilebilir.
         Aşağıdaki bilgiler görüntülenir:
         Toplam kilometre.
         Sürüş verilerinin göstergeleri için ayarlananaralık.
@@ -32,7 +32,7 @@ def gpt(prompt):
         Ortalama hız.
         Gösterge panelindeki Widgetları seçin ve ayarlayın.
         
-        Gösterge panelindeki ve kontrol ekranındaki sürüş verilerinin göstergesi için aralıklar ayarlanabilir.
+        BMW 925 model aracın gösterge panelindeki ve kontrol ekranındaki sürüş verilerinin göstergesi için aralıklar ayarlanabilir.
         1."CAR"
         2."Sürüş bilgisi"
         3."Sürüş verileri"
